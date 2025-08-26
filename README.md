@@ -3,6 +3,7 @@
 🚀 **DevCircle** is a collaborative platform currently under development.  
 It is being built to provide developers with a space to connect, collaborate, and showcase their projects.  
 
+## Frontend Deployed link : https://devcircles.netlify.app
 ## 📌 Status
 The project is **actively being built** and will be **deployed soon**. Stay tuned for updates!  
 
